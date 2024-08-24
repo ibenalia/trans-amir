@@ -28,9 +28,6 @@
 
 Aucune installation requise. Vous pouvez simplement cloner le repository et ouvrir le fichier `index.html` dans votre navigateur.
 
-## Contributeurs
-
-- Imed
 
 ## License
 
